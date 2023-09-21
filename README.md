@@ -6,7 +6,6 @@ This repository contains a simple dummy application showcasing the usage of Redu
 - **Redux Toolkit Integration**: Demonstrates the seamless integration of Redux Toolkit into a React application.
 - **Redux Slices**: Utilizes Redux slices to organize and manage different parts of the application's state.
 - **Reducers and Actions**: Shows how to define reducers and actions using Redux Toolkit's simplified syntax.
-- **Redux Thunk**: Implements asynchronous actions using Redux Thunk middleware for side effects.
 - **Global State Management**: Manages global state in a structured and maintainable way.
 - **Redux DevTools**: Easily inspect and debug the application's state using Redux DevTools.
 
